@@ -1,2 +1,2 @@
 # SAPBTP_GO_SIMPLE
-Runing Simple Go Applications , and Deploy it to SAP Business Technology Platform
+Simple Go Simple Webapplicaitons, and deploy it to SAP Business Technoloy Platform

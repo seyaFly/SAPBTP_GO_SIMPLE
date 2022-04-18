@@ -1,0 +1,10 @@
+---
+applications:
+- name: goApp
+  memory: 64MB
+  buildpacks: 
+    - go_buildpack
+  routes:
+    - route: goweb.cfapps.us10.hana.ondemand.com
+  env:
+    GOPACKAGENAME : goApp
